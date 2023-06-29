@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Inc;
+namespace CustomSimpleList\inc;
 
 function list_page_handler() {
     $table = new List_Table();

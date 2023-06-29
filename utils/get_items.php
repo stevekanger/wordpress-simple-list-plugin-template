@@ -2,7 +2,7 @@
 
 namespace CustomSimpleList;
 
-use function CustomSimpleList\Utils\get_table_name;
+use function CustomSimpleList\utils\get_table_name;
 
 function get_items() {
     global $wpdb;

@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Inc;
+namespace CustomSimpleList\inc;
 
 function form_meta_box_handler($item) {
 ?>

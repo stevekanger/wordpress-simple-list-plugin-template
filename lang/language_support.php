@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Lang;
+namespace CustomSimpleList\lang;
 
 use const CustomSimpleList\PLUGINROOT;
 

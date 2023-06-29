@@ -1,8 +1,8 @@
 <?php
 
-namespace CustomSimpleList\Inc;
+namespace CustomSimpleList\inc;
 
-use function CustomSimpleList\Utils\get_table_name;
+use function CustomSimpleList\utils\get_table_name;
 use const CustomSimpleList\PLUGINROOT;
 
 function activate() {

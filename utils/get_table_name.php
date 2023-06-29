@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Utils;
+namespace CustomSimpleList\utils;
 
 function get_table_name() {
     global $wpdb;

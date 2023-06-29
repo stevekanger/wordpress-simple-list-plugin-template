@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Inc;
+namespace CustomSimpleList\inc;
 
 function admin_menu() {
     add_menu_page(

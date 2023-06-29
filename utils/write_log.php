@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Utils;
+namespace CustomSimpleList\utils;
 
 if (!function_exists('write_log')) {
 

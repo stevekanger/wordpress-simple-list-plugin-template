@@ -1,6 +1,6 @@
 <?php
 
-namespace CustomSimpleList\Inc;
+namespace CustomSimpleList\inc;
 
 function validate_form_submission($item) {
     $messages = array();
